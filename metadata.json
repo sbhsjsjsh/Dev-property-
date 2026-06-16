@@ -1,0 +1,6 @@
+{
+  "name": "Dev Properties Mumbai",
+  "description": "Premium real estate and property listings in Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
