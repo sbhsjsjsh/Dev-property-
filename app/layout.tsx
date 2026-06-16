@@ -22,6 +22,9 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: 'https://i.ibb.co/DgQVm6FW/437666332-1781579564025583.jpg',
+  },
+  verification: {
+    google: 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
   }
 };
 
